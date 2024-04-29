@@ -1,0 +1,12 @@
+{
+  "name": "smzzl",
+  "version": "0.1.0",
+  "description": "Visual cryptography tool which runs on browsers.",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Joh1ah",
+  "license": "MIT",
+  "dependencies": {
+    "@vivaxy/png": "^1.3.0"
+  }
+}
